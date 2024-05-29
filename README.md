@@ -5,7 +5,7 @@
 
 ## Media queries
 
-[Resultado esperado](https://omiras.github.io/responsive-playground/media-queries.html)
+[Resultado esperado](https://omiras.github.io/responsive-playground/media-queries.html) . Haz pequeño el viewport para ver el cambio,
 
 Crea dos media queries 
 
