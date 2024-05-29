@@ -4,6 +4,9 @@
 - Utiliza una [variables CSS](https://www.w3schools.com/css/tryit.asp?filename=trycss3_var2) para almacenar el color principal. Úsalo para el borde y el encabezado de la tarjeta
 
 ## Media queries
+
+[Resultado esperado](https://omiras.github.io/responsive-playground/media-queries.html)
+
 Crea dos media queries 
 
 1. La primera debe aplicarse cuando alcanzamos al menos **768px** de viewport width. 
