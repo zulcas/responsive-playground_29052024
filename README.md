@@ -13,3 +13,5 @@ Crea dos media queries
 2. La segunda debe aplicarse cuando alcanzamos al menos **992px** de viewport width. Hay que aumentar el tamaño de la fuente de todo el body a 1.5rem
 
 3. Crea una media query que, cuando se vaya a [imprimir](https://sympli.io/blog/a-quick-guide-to-css-for-printable-webpages) está página, elimine toda la barra de navegación
+
+![](https://oscarm.tinytake.com/media/16373b0?filename=1716979358743_TinyTake29-05-2024-12-42-30_638525761573943273.png&sub_type=thumbnail_preview&type=attachment&width=1199&height=796)
