@@ -42,8 +42,30 @@
         }
 
         /** Media query 1*/
+        @media (min-width: 768px){
+            nav ul {
+            justify-content: flex-end;
+            gap: 1rem;
+            }
+    
+            .news{
+                column-count:2;
 
+            }
+    
+        }
         /** Media query 2*/
+        @media (min-width: 992px){
+            body{
+                font-size: 1.5rem;
+            }
+        }
+        /** Media query print*/
+        @media print{
+            nav{
+                display: none;
+            }
+        }
     </style>
 
 </head>
@@ -85,7 +107,7 @@
                     tempora quia tempore ex cumque explicabo obcaecati voluptas deleniti velit quos, doloribus, vitae
                     eveniet iure est et. Quibusdam, nemo corrupti!
                 </p>
-                </p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                <p>Lorem ipsum dolor sit amet      consectetur adipisicing elit.
                 Doloremque, incidunt. Dolore eum ut neque facere esse cupiditate minima eligendi, tenetur rerum ipsam,
                 error placeat dolorum. Omnis accusamus eius tenetur repudiandae.</p>
             </div>
